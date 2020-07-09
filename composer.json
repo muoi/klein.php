@@ -1,5 +1,5 @@
 {
-   "name": "klein/klein",
+   "name": "muoi/klein",
    "description": "A lightning fast router for PHP",
    "keywords": ["router", "routing", "sinatra", "boilerplate"],
    "homepage": "https://github.com/klein/klein.php",
@@ -15,6 +15,12 @@
          "name": "Trevor Suarez",
          "email": "rican7@gmail.com",
          "homepage": "https://trevorsuarez.com/",
+         "role": "Contributor/Developer"
+      },
+      {
+         "name": "Tuan Dinh",
+         "email": "me@tuandinh.com",
+         "homepage": "https://tuandinh.com/",
          "role": "Contributor/Developer"
       }
    ],
